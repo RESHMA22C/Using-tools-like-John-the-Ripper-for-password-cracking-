@@ -19,8 +19,9 @@ Use John the Ripper to crack the hashes:
 Password Cracking with John the Ripper
 
 ## OUTPUT:
- create a text file
+create a text file
  ![image](https://github.com/user-attachments/assets/c58c5150-adc1-48c7-84f0-13c99d99141c)
+
 Create a Password-Protected ZIP File
 ![image](https://github.com/user-attachments/assets/7c2aeaa2-3ead-442b-8987-bba70e26a6f9)
 # OR
