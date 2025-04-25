@@ -1,4 +1,6 @@
 # Using-tools-like-John-the-Ripper-for-password-cracking
+# NAME: RESHMA C
+# REG NO: 212223040168
 ## AIM:
 To crack password hashes using John the Ripper in Kali Linux.
 
