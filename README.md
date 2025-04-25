@@ -29,11 +29,16 @@ Create a Password-Protected ZIP File
 zip -e secret.zip file.txt
 ~~~
 Open John-The-Ripper Tool
+
 ![image](https://github.com/user-attachments/assets/8c488979-0a2d-42a8-a3bc-990880fa6962)
 ![image](https://github.com/user-attachments/assets/b9d44170-a02f-47d4-b21f-833f8c05473b)
+
 Generate Hash Using zip2john
+
 ![image](https://github.com/user-attachments/assets/d9c1d51a-86b3-4427-85c8-1435a3ed85be)
+
 cat hash.txt
+
 ![image](https://github.com/user-attachments/assets/15e6dd28-a983-4cdc-9e11-dad9b0b6b55f)
 ![image](https://github.com/user-attachments/assets/3155436a-c5c3-4d0a-af6b-301d42876d67)
 
